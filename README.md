@@ -1,4 +1,4 @@
-# Fung Wan iOS lab
+# iOS lab
 
 Projek persediaan untuk jalankan Fung Wan terus dalam iPhone menggunakan runtime Windows iOS. Ini **belum app Fung Wan yang boleh dipasang**.
 
