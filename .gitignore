@@ -1,0 +1,15 @@
+runtime/
+reports/
+dist/
+__pycache__/
+*.pyc
+*.ipa
+*.apk
+*.zip
+*.tar.gz
+*.p12
+*.mobileprovision
+*.keystore
+*.jks
+.env
+private/
